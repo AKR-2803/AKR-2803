@@ -1,9 +1,20 @@
- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20%20Aaryaveer;Learning%20Flutter%20Currently...;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20%20Aaryaveer;Learning%20Flutter%20Currently...;&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&size=25" />
  
+ 
+ 
+ 
+<div>
+<a href="https://twitter.com/_aaryaveer">
+<img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>&ensp;
+<a href="http://www.linkedin.com/in/aaryaveer-rajput-0362b91b3/">
+<img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>&ensp;
+<a href="ttps://www.instagram.com/aaryaveer._">
+<img width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
+</a>
+</div>
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AKR-2803)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/aaryaveer-rajput-0362b91b3/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/aaryaveer._/)
 #
 **Languages and Tools:**
 ##
