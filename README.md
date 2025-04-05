@@ -49,9 +49,9 @@
 <!-- ![GitHub Snake Gif](https://github.com/AKR-2803/AKR-2803/blob/output/dist/ocean.gif) -->
 
 
-<!-- ## Stats📈
+## Stats📈
 
 [![Aaryaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKR-2803&theme=aura_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <img style="margin:10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKR-2803&theme=aura_dark&layout=compact" />
 <img style="margin: 10px auto;" src="https://github-readme-streak-stats.herokuapp.com/?user=AKR-2803&theme=aura_dark" />
- -->
+
