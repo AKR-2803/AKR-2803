@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Aaryaveer Rajput!
 - 💻 I’ve worked on mobile development using **Flutter** in the past, and I’m currently focused on frontend web development with React.
 - 🎓 Pursuing my Master’s in Computer Science at Arizona State University (ASU), Tempe.
-### 📬 Open to discussing opportunities for Summer 2025 or beyond, feel free to reach out!
+### 📬 Open to discussing full time opportunities starting May 2026, feel free to reach out!
 
 
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20I'm%20%20Aaryaveer;Learning%20Flutter%20Currently...;&font=Fira%20Code&width=440&height=45&color=FF7830&vCenter=true&pause=1000&size=25" /> -->
