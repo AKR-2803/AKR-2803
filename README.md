@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Aaryaveer Rajput!
-- 💻 I’ve worked on mobile development using **Flutter** in the past, and I’m currently focused on frontend web development with React.
+- 💻 I’ve worked on mobile development using **Flutter** in the past, and I’m currently focused on full stack web development.
 - 🎓 Pursuing my Master’s in Computer Science at Arizona State University (ASU), Tempe.
 ### 📬 Open to discussing full time opportunities starting May 2026, feel free to reach out!
 
