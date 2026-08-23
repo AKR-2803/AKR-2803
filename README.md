@@ -4,15 +4,9 @@
   </kbd>
 </div>
 
-
+<!--
 ## 👋 Hi, I'm Aaryaveersinh Rajput
 
-### Open to **full-time Software Engineer roles in the US starting May 2026** - feel free to reach out
-
-- Software Engineer with industry experience building scalable distributed systems using **Java, Spring Boot, Microservices, and REST APIs**
-- Experienced in designing backend services, implementing event-driven architectures with **Kafka/RabbitMQ**, and deploying **cloud-native applications on AWS**
-- Strong foundation in **data-intensive system design**, working with both relational and NoSQL databases, optimizing performance and scalability
-- Graduate student pursuing a **Master’s in Computer Science at Arizona State University (ASU), Tempe** (Expected May 2026)
 
 
 ## 🛠 Skills
@@ -25,6 +19,8 @@
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+-->
 
 <!--
 
@@ -50,24 +46,25 @@
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
 
 
--->
-## 🔗 Links
 
+## 🔗 Links
+-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaryaveer-rajput/)
 &nbsp;&nbsp;
 [![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10581401)
-[![Technical Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=book&logoColor=white)](https://akr2803.github.io/)
+<!-- [![Technical Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=book&logoColor=white)](https://akr2803.github.io/)
 &nbsp;&nbsp;
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aaryaveer)
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AKR-2803)
-
+-->
 
 
 ![GitHub Snake Dark](https://github.com/AKR-2803/AKR-2803/blob/output/github-contribution-grid-snake-dark.svg)
-
+<!--
 ## 📈 GitHub Stats
 
 ![Aaryaveer's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKR-2803&theme=aura_dark&show_icons=true)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKR-2803&theme=aura_dark" />
+ -->
